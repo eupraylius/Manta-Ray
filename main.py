@@ -15,5 +15,5 @@ async def hello(ctx):
 async def goodbye(ctx):
     await ctx.send('bye~')
 
-client.run('MTIxNjQyNjY2ODg1NjcwOTE5MA.G9TtmZ.RatyNIj6u2HyrecYIU84oQbtC72FAWiFfNKCdg')
+client.run(TOKEN)
 
